@@ -4,7 +4,7 @@ description: Assess stakeholder landscape and develop coalition strategy for org
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3615
+  version: 1.0.3616
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - coalition-building-assessment
